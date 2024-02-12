@@ -8,16 +8,10 @@ I'm a passionate software developer based in [Your Location]. I love coding and 
 - 💬 Ask me about anything related to [Your expertise or interests].
 
 ## Get in Touch
-- 📫 Reach me via email: [Your Email Address]
-- 🌐 Connect with me on [LinkedIn](Your LinkedIn Profile Link) and [Twitter](Your Twitter Profile Link).
+- 📫 Reach me via email: [poojariprathik44@gmail.com]
+- 🌐 Connect with me on [LinkedIn](www.linkedin.com/in/poojariprathik44) and [Twitter](Your Twitter Profile Link).
 
 ## My GitHub Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=prathikpoojari&show_icons=true&theme=radical)](https://github.com/prathikpoojari)
-
-## My Top Projects
-- [Project 1](Link to Project 1)
-- [Project 2](Link to Project 2)
-- [Project 3](Link to Project 3)
-- [Project 4](Link to Project 4)
 
 Feel free to explore my repositories and reach out for collaborations or discussions! 😊
