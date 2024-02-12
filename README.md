@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🌱 I'm currently learning WEB-Development and java Language.
+- 🌱 I'm currently learning WEB-Development.
   
 
 ## Get in Touch
